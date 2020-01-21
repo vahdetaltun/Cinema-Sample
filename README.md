@@ -8,5 +8,5 @@
 </ul>
 
 <h1>Installation</h1>
-<p>Download project on your devices then open in Visual Studio.</p>
+<p>Download project on your devices and extract the .rar same location then, open in Visual Studio.</p>
 <bold>NOTE!</bold><p>There is no database backup.</p>
